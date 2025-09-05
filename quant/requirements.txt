@@ -1,0 +1,11 @@
+pandas
+numpy
+xgboost
+yfinance
+requests
+beautifulsoup4
+lxml
+scikit-learn
+fastapi
+uvicorn
+streamlit
